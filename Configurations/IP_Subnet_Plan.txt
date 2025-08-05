@@ -1,0 +1,8 @@
+IP & Subnet Plan:
+
+- IT Department: 192.168.10.0/24
+- HR Department: 192.168.20.0/24
+- Sales Department: 192.168.30.0/24
+- Gateway: 192.168.1.1
+- VLAN IDs: IT - 10, HR - 20, Sales - 30
+- Router and firewall planned to connect and secure VLAN traffic
