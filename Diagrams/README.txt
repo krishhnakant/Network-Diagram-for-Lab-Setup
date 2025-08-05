@@ -1,0 +1,1 @@
+Store network diagrams created in Visio (.vsdx) or Draw.io (.drawio or .png) format here.
