@@ -1,0 +1,17 @@
+Network Diagram for Lab Setup
+
+Project Overview:
+This project involved designing a simulated network architecture using Microsoft Visio and Draw.io.
+
+Key Components:
+- IP address planning and subnetting for each department
+- Logical VLAN assignments for IT, HR, and Sales
+- Simulated router and firewall integration
+- Network topology visualized through diagrams
+
+Tools Used:
+- Microsoft Visio
+- Draw.io (diagrams.net)
+
+Outcome:
+A visual and documented representation of a basic enterprise network setup to demonstrate understanding of network design and infrastructure planning.
